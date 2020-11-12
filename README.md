@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 I'm Guitarhub786</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guitarhub786&label=Profile%20views&color=0e75b6&style=flat" alt="guitarhub786" /> </p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Guitarhub786&count_private=true&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Guitarhub786&layout=compact&show_icons=true&theme=tokyonight">
+</p>
+
 
 <!--
 **Guitarhub786/Guitarhub786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
